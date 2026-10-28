@@ -1,0 +1,6 @@
+{
+  "name": "PyCalc GitHub - Calculadora Python & Repositório",
+  "description": "Calculadora simples e completa em Python com simulação interativa, exportador de código, testes unitários e README profissional pronto para o GitHub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
